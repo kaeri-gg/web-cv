@@ -5,9 +5,10 @@
  */
 
 body {
-    font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     padding-top: 54px;
     color: #868e96;
+    font-size: 13px;
 }
 
 @media (min-width: 992px) {
@@ -23,7 +24,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-weight: 700;
     text-transform: uppercase;
     color: #343a40;
@@ -50,7 +51,7 @@ p.lead {
 .subheading {
     text-transform: uppercase;
     font-weight: 500;
-    font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 1.5rem;
 }
 
@@ -72,7 +73,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-    background-color: #E91E63;
+    background-color: #e91e63;
 }
 
 .dev-icons {
@@ -80,7 +81,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-    color: #E91E63;
+    color: #e91e63;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -160,15 +161,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-    background-color: #E91E63!important;
+    background-color: #e91e63 !important;
 }
 
 .text-primary {
-    color: #E91E63 !important;
+    color: #e91e63 !important;
 }
 
 a {
-    color: #E91E63;
+    color: #e91e63;
 }
 
 a:hover,
